@@ -1,0 +1,17 @@
+Industry Name: The name of the industry or company for which the emission limit is being set.
+
+Industry Sector: The sector to which the industry belongs (e.g., manufacturing, energy production, transportation, agriculture).
+
+Historical Emissions: Historical data on the industry's greenhouse gas emissions over a specified period (e.g., the past five years). This helps establish a baseline for setting emission limits.
+
+Production Output: Information about the industry's production output or activity level, which can be used to normalize emissions data (e.g., emissions per unit of product produced).
+
+Emission Reduction Measures: Details of any emission reduction measures or initiatives already implemented by the industry, such as energy efficiency improvements, adoption of renewable energy, or implementation of emission control technologies.
+
+Future Expansion Plans: Information about the industry's plans for expansion or changes in production capacity, which could impact future emissions levels.
+
+Technological Infrastructure: Description of the industry's technological infrastructure and processes, including information on emissions-intensive activities or equipment.
+
+Carbon Intensity: The carbon intensity of the industry's operations, expressed as emissions per unit of output or activity (e.g., CO2 emissions per megawatt-hour of electricity generated).
+
+Compliance History: The industry's compliance history with environmental regulations and emission standards, including any past violations or penalties.

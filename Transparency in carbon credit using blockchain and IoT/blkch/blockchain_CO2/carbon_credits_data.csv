@@ -1,0 +1,122 @@
+Year,Industry Name,Sector,Emissions,Production Output,Emission Reduction Measures,Future Expansion Plans,Technological Infrastructure,Carbon Intensity,Compliance History,Emission Limit
+2012,Electronics Inc.,Electronics Manufacturing,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2012,PowerGen Corp.,Power Generation,7561.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2012,Transit Solutions Ltd.,Transportation,6376.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2012,Skyward Aerospace,Aerospace,14566.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2012,AutoWorks Ltd.,Automotive Manufacturing,9684.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2013,Electronics Inc.,Electronics Manufacturing,19292.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2013,PowerGen Corp.,Power Generation,18525.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2013,Transit Solutions Ltd.,Transportation,17895.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2013,Skyward Aerospace,Aerospace,9371.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2013,AutoWorks Ltd.,Automotive Manufacturing,7357.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2014,Electronics Inc.,Electronics Manufacturing,12086.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2014,PowerGen Corp.,Power Generation,6959.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2014,Transit Solutions Ltd.,Transportation,16408.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2014,Skyward Aerospace,Aerospace,7028.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2014,AutoWorks Ltd.,Automotive Manufacturing,7744.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2015,Electronics Inc.,Electronics Manufacturing,10618.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2015,PowerGen Corp.,Power Generation,5490.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2015,Transit Solutions Ltd.,Transportation,16731.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2015,Skyward Aerospace,Aerospace,7659.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2015,AutoWorks Ltd.,Automotive Manufacturing,12583.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2016,Electronics Inc.,Electronics Manufacturing,11522.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2016,PowerGen Corp.,Power Generation,16315.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2016,Transit Solutions Ltd.,Transportation,16776.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2016,Skyward Aerospace,Aerospace,9460.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2016,AutoWorks Ltd.,Automotive Manufacturing,7205.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2017,Electronics Inc.,Electronics Manufacturing,6638.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2017,PowerGen Corp.,Power Generation,18995.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2017,Transit Solutions Ltd.,Transportation,7603.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2017,Skyward Aerospace,Aerospace,19028.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2017,AutoWorks Ltd.,Automotive Manufacturing,19252.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2018,Electronics Inc.,Electronics Manufacturing,8295.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2018,PowerGen Corp.,Power Generation,6390.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2018,Transit Solutions Ltd.,Transportation,5327.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2018,Skyward Aerospace,Aerospace,5647.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2018,AutoWorks Ltd.,Automotive Manufacturing,12075.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2019,Electronics Inc.,Electronics Manufacturing,19132.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2019,PowerGen Corp.,Power Generation,13330.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2019,Transit Solutions Ltd.,Transportation,19420.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2019,Skyward Aerospace,Aerospace,13131.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2019,AutoWorks Ltd.,Automotive Manufacturing,19254.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2020,Electronics Inc.,Electronics Manufacturing,19507.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2020,PowerGen Corp.,Power Generation,16308.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2020,Transit Solutions Ltd.,Transportation,11582.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2020,Skyward Aerospace,Aerospace,16583.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2020,AutoWorks Ltd.,Automotive Manufacturing,18342.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2021,Electronics Inc.,Electronics Manufacturing,9263.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2021,PowerGen Corp.,Power Generation,6693.0,5796.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2021,Transit Solutions Ltd.,Transportation,13284.0,231.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2021,Skyward Aerospace,Aerospace,11260.0,143.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2021,AutoWorks Ltd.,Automotive Manufacturing,7581.0,3414.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2022,Electronics Inc.,Electronics Manufacturing,18793.0,2005.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2022,PowerGen Corp.,Power Generation,14484.0,5862.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2022,Transit Solutions Ltd.,Transportation,11294.0,233.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2022,Skyward Aerospace,Aerospace,19084.0,167.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2022,AutoWorks Ltd.,Automotive Manufacturing,10481.0,3616.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2024,Accurate info solution,Electronics Manufacturing,10661.0,196999.0,Implementation of energy-efficient processes,Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2023,AutoWorks Ltd.,Automotive Manufacturing,10481.0,202.0,"['Adoption of electric vehicle technology', 'Implementation of lean manufacturing']",Introduction of new vehicle models,Modern,3.020628464600179,Good,40000.0
+2023,Skyward Aerospace,Aerospace,19084.0,24.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2023,Transit Solutions Ltd.,Transportation,11294.0,2.0,"['Fleet modernization with fuel-efficient vehicles', 'Promotion of public transit']",Expansion of vehicle fleet,Advanced,6.255089639472649,Good,15000.0
+2023,PowerGen Corp.,Power Generation,14484.0,66.0,"['Transition to cleaner energy sources', 'Installation of emission control systems']",Investment in renewable energy projects,Moderate,0.9601709740666649,Average,50000.0
+2024,AIS,Electronics Inc.,10661.0,2000000.0,Implementation of energy-efficient processes,Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,100000.0
+2023,Electronics Inc.,Electronics Manufacturing,18793.0,36.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.9679780417167856,Good,30000.0
+2022,Skyward Aerospace,Aerospace,11260.0,0.0,"['Development of more fuel-efficient aircraft', 'Investment in sustainable aviation fuels']",Expansion of aircraft manufacturing capacity,Cutting-edge,25.199652139995365,Good,70000.0
+2023,ABC,Aerospace,11260.0,0.0,Development of more fuel-efficient aircraft,"""Expansion of aircraft manufacturing capacity",Cutting-edge,25.199652139995365,Good,70000.0
+2023,ABC,Aerospace,11260.0,0.0,Development of more fuel-efficient aircraft,"""Expansion of aircraft manufacturing capacity",Cutting-edge,25.199652139995365,Good,70000.0
+2023,qwe,asd,10661.0,2914.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2024,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,EVE pvt ltd,energy,25524.0,10360.5,Semiconductor,Manufacturing,Advanced,1.67845,good,3.0
+2024,qwe,asd,10661.0,290.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2024,qwe,asd,10661.0,113.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2024,qwe,asd,10661.0,170.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2024,qwe,asd,10661.0,372.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2023,qwe,asd,10661.0,1969.0,"['Implementation of energy-efficient processes', 'Waste recycling initiatives']",Expansion of manufacturing facilities,Advanced,1.967978042,Good,30000.0
+2024,EVE pvt ltd,energy,25524.0,348.0,Semiconductor,Manufacturing,Advanced,1.67845,good,3.0

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CO2-Blockchain</title>
+  <style>
+        body{
+	margin: 0;
+	padding: 0;
+<!--	display: flex;-->
+<!--	justify-content: center;-->
+	align-items: center;
+	min-height: 100vh;
+	font-family: Georgia,'Jost', sans-serif;
+	background: linear-gradient(to bottom , #1C742B, #1C742B,#8CDA99  );
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+<body>
+<br>
+<h1>Blockchain-enabled Carbon Credits</h1>
+
+<br/>
+<div class="topnav">
+
+ <a href="/adminhomepage">Home</a>
+   <a href="/viewBlockchain">View Blockchain</a>
+    <a href="/indivbc">Individual Blockchain</a>
+  <a href="/checkviolate">Check Violation</a>
+<!--  <a href="/predictdata">Predict Data</a>-->
+<!--     <a href="/viewgraph">Evaluation Matrix</a>-->
+</div>
+<br>
+
+ <h1>Check Violations</h1>
+    {% if violations %}
+        <h1>Violations Found</h1>
+        <ul>
+            {% for violation in violations %}
+                <li>
+                    <p>Block Index: {{ violation.block_index }}</p>
+                    <p>Timestamp: {{ violation.timestamp }}</p>
+                    <p>Transaction: {{ violation.transaction|safe }}</p>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <h1>No Violations Found</h1>
+        <p>No violations found.</p>
+    {% endif %}
+</body>
+</html>
